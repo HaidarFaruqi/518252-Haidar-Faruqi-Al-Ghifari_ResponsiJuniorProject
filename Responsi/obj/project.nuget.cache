@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mbJPhF+dATalpSwSsaVWI76/FFiY5w0vpdkFbrTt6G+/3oRHWs3NWCxD9eETt4n7dXI390+tlax/L2mLSYzeuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HaidarFaruqi\\source\\repos\\Responsi\\Responsi\\Responsi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HaidarFaruqi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\HaidarFaruqi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\HaidarFaruqi\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512",
+    "C:\\Users\\HaidarFaruqi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "C:\\Users\\HaidarFaruqi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\HaidarFaruqi\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\HaidarFaruqi\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
